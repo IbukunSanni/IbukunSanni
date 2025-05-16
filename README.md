@@ -1,18 +1,25 @@
-Basseybd/README.md
-👋 Hi, I’m Bassey!
-👀 I’m a full-stack developer with 5+ years of experience.
+# 👋 Hi, I'm Ibukunoluwa Sanni
 
-🌱 Currently, I’m focused on building scalable apps with Next.js/TypeScript and integrating AI into back-end services using Python and AWS.
+Welcome to my GitHub! I'm a Full-Stack Developer and AI/ML enthusiast passionate about building tools that improve user experience, and empower creativity. 
 
-💞️ I’m always looking to collaborate on front-end, full-stack, or AI-driven projects. Feel free to reach out!
+- 🌍 Based in Kitchener, Ontario
+- 🎓 MSc in Electrical & Computer Engineering (AI/ML) – University of Waterloo
 
-🌐 Check out my portfolio website for more about my projects!
+## 🛠 Tech Stack
 
-Github Stats
-languages graph stats graph
-Tech Stack
-react logo  nextjs logo  typescript logo  javascript logo  html5 logo  tailwindcss logo  css3 logo  python logo  amazonwebservices logo  docker logo  terraform logo  kubernetes logo  java logo  swift logo
-Reach out to me via:
-gmail logo linkedin logo
-Snake animation
+**Languages:** JavaScript, Python, Kotlin, C++, Java, SQL  
+**Frameworks/Tools:** React, Next.js, Tailwind, Spring Boot, FastAPI, Prisma, Django  
+**DevOps:** Docker, AWS, GitHub Actions  
+**DBs:** PostgreSQL, MySQL  
+**AI/ML:** Transformers (HuggingFace), spaCy, Pandas  
+**Other:** CI/CD, Agile, RESTful APIs, OOP
 
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio](https://ibukunoluwa-chinedu-sanni-portfolio.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibukunoluwasanni/)
+- ✉️ [Email Me](mailto:ibukun.sanni@gmail.com)
+
+Thanks for stopping by!
