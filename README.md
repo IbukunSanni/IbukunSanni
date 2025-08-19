@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a Full-Stack Developer and AI/ML enthusiast passionate
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](https://ibukunoluwa-chinedu-sanni-portfolio.netlify.app/)
+- 🌐 [Portfolio](https://ibukun-sanni-dev.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibukunoluwasanni/)
 - ✉️ [Email Me](mailto:ibukun.sanni@gmail.com)
 
