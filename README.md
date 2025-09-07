@@ -2,8 +2,8 @@
 
 Welcome to my GitHub! I'm a Full-Stack Developer and AI/ML enthusiast passionate about building tools that improve user experience, and empower creativity. 
 
-- 🌍 Based in Kitchener, Ontario
-- 🎓 MSc in Electrical & Computer Engineering (AI/ML) – University of Waterloo
+- Based in Kitchener, Ontario
+- MSc in Electrical & Computer Engineering (AI/ML) – University of Waterloo
 
 ## 🛠 Tech Stack
 
@@ -11,12 +11,12 @@ Welcome to my GitHub! I'm a Full-Stack Developer and AI/ML enthusiast passionate
 **Frameworks/Tools:** React, Next.js, Tailwind, Spring Boot, FastAPI, Prisma, Django  
 **DevOps:** Docker, AWS, GitHub Actions  
 **DBs:** PostgreSQL, MySQL  
-**AI/ML:** Transformers (HuggingFace), spaCy, Pandas  
+**AI/ML:** Transformers (HuggingFace), spaCy, Pandas, jax, tensorflow  
 **Other:** CI/CD, Agile, RESTful APIs, OOP
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🌐 [Portfolio](https://ibukun-sanni-dev.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibukunoluwasanni/)
