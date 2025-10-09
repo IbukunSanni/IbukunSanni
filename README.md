@@ -1,17 +1,18 @@
 # Hi, I'm Ibukunoluwa Sanni
 
-Welcome to my GitHub! I'm a Full-Stack Developer and AI/ML enthusiast passionate about building tools that improve user experience, and empower creativity. 
+Welcome to my GitHub.
+I'm a Full-Stack Developer and AI/ML Engineer who loves building, especially tools that empower creativity. 
 
 - Based in Kitchener, Ontario
-- MSc in Electrical & Computer Engineering (AI/ML) – University of Waterloo
+- Masters in Electrical & Computer Engineering (AI/ML) – University of Waterloo
 
 ## Tech Stack
 
-**Languages:** JavaScript, Python, Kotlin, C++, Java, SQL  
+**Languages:** JavaScript, Python, Kotlin, C++, Java, SQL   
 **Frameworks/Tools:** React, Next.js, Tailwind, Spring Boot, FastAPI, Prisma, Django  
 **DevOps:** Docker, AWS, GitHub Actions  
-**DBs:** PostgreSQL, MySQL  
-**AI/ML:** Transformers (HuggingFace), spaCy, Pandas, jax, tensorflow  
+**DBs:** PostgreSQL, MySQL, NoSQL  
+**AI/ML:** Transformers (HuggingFace), Pandas, Jax, Tensorflow, Pytorch  
 **Other:** CI/CD, Agile, RESTful APIs, OOP
 
 ---
